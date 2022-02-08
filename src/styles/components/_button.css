@@ -5,6 +5,7 @@
   width: 150px;
   height: 40px;
   font-weight: var(--font-weight-semi-bold);
+  transition: background-color 0.2s, border-color 0.2s;
 }
 
 .button--yellow {
