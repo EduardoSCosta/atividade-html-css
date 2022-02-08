@@ -1,0 +1,20 @@
+.input {
+  border: none;
+  min-width: 200px;
+  border-radius: 20px;
+  height: 35px;
+  padding-left: var(--space-sm);
+}
+
+.input:disabled {
+  background-color: var(--white);
+  opacity: 0.5;
+}
+
+.input--focused:focus {
+  outline: 2px solid var(--blue-100);
+}
+
+.input--focused:active {
+  outline: 2px solid var(--blue-100);
+}
