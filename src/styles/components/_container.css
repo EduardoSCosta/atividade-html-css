@@ -1,0 +1,17 @@
+.grid-container {
+  max-width: 750px;
+  margin: 0 auto;
+  margin-top: var(--space-lg);
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  grid-gap: var(--space-sm);
+}
+
+.grid-container--buttons {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.grid-container--inputs {
+  grid-template-columns: repeat(3, 1fr);
+}
