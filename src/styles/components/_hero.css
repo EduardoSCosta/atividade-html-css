@@ -1,0 +1,12 @@
+.hero {
+  height: calc(100% - 100px);
+  padding-left: var(--space-lg);
+  display: flex;
+  align-items: center;
+}
+
+.hero__text {
+  font-size: var(--font-size-xxl);
+  font-weight: var(--font-weight-bold);
+  max-width: 800px;
+}
