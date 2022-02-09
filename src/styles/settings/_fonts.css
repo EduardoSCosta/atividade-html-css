@@ -1,7 +1,13 @@
 :root {
   --font-montserrat: 'Montserrat', sans-serif;
-  --font-size-text: 16px;
-  --font-size-title: 32px;
+
+  --font-size-sm: 16px;
+  --font-size-md: 24px;
+  --font-size-lg: 32px;
+  --font-size-xl: 48px;
+  --font-size-xxl: 72px;
+
   --font-weight-normal: 400;
   --font-weight-semi-bold: 600;
+  --font-weight-bold: 700;
 }
