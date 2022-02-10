@@ -36,5 +36,5 @@
 }
 
 .header__button:hover > .header__link--button {
-  color: black;
+  color: var(--black);
 }
