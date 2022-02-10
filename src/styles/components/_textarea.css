@@ -1,0 +1,6 @@
+.textarea {
+  font-family: var(--font-montserrat);
+  padding-top: var(--space-sm);
+  resize: none;
+  height: 200px;
+}
