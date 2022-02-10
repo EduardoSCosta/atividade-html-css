@@ -2,5 +2,5 @@ body {
   font-family: var(--font-montserrat);
   font-size: var(--font-size-sm);
   color: var(--white);
-  background-color: var(--gray);
+  background-color: var(--gray-100);
 }
