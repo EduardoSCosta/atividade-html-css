@@ -1,0 +1,15 @@
+.page {
+  display: flex;
+  flex-direction: column;
+}
+
+.page__title {
+  padding: var(--space-lg) 0 0 var(--space-lg);
+  color: var(--blue-100);
+  font-size: var(--font-size-lg);
+}
+
+.page__description {
+  padding: var(--space-sm) 0 var(--space-lg) var(--space-lg);
+  color: var(--black);
+}
